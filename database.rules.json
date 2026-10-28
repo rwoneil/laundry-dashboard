@@ -1,0 +1,6 @@
+{
+  "rules": {
+    "machines": { ".read": true, ".write": true },
+    "events": { ".read": true, ".write": true }
+  }
+}
